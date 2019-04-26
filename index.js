@@ -16,7 +16,7 @@ return newarray;
 }
 function iLoveTheBeatles(number) {
   var emptyArray = [];
-  do {
+  do { number+1
   var i = 15 - number ;
   emptyArray.push("I love the Beatles!");
   i++;
